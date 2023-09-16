@@ -1,5 +1,5 @@
 import React from 'react';
-import Img from '../assets/vu-anh-gf4SgQ3vy-8-unsplash.jpg';
+import HeroImg from '../assets/HeroImg.png';
 import {
   AiOutlineTwitter,
   AiOutlineYoutube,
@@ -52,7 +52,7 @@ const Hero = () => {
         </div>
         <div className='hero-img'>
           <img
-            src={Img}
+            src={HeroImg}
             alt='coding illustration'
             className='lgw-[80%] ml-auto'
           />
