@@ -23,7 +23,7 @@ const About = () => {
             In my spare time I like to read books, articles and write blogs on
             my Blog. Also, I help beginners to navigate through programming
             world as a software engineer, and build various projects as well as
-            building one's profile portfolio.
+            building profile portfolio.
           </p>
         </div>
         <div className='about-img'>
